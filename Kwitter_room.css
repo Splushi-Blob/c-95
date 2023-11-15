@@ -1,0 +1,13 @@
+.logout_div{
+    width: 50%;
+    color: red;
+}
+
+.addRoom_div{
+    width: 50%;
+    color: purple;
+}
+
+.body{
+    background-color: rgb(42, 121, 121);
+}
